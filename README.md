@@ -1,10 +1,9 @@
 
-##Purpose:
+## Purpose:
 OTDA is asking for our help with the PIT count. Their templates are each CoC brotken out by the counties in them. 
 
 
-#Data:
-
+# Data:
 Copy the PIT workbooks for the above CoCs into the ‘Data’ folder. Also, add the ‘Unsheltered’ workbook along with the OTDA template. Make sure the template contains all the counties for each program that the PIT workbooks contain.
 
 Extract_data_from_Excel_PIT_Workbooks.py
