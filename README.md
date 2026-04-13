@@ -1,9 +1,10 @@
 
-Purpose:
-OTDA is asking for our help with the PIT for CoCs with multiple counties in them. We are to reconfigure the data for said.
-CoCs into a PIT report for each county. The current CoCs this applies to are: 519, 520, 522, and 523.
+##Purpose:
+OTDA is asking for our help with the PIT count. Their templates are each CoC brotken out by the counties in them. 
 
-Data:
+
+#Data:
+
 Copy the PIT workbooks for the above CoCs into the ‘Data’ folder. Also, add the ‘Unsheltered’ workbook along with the OTDA template. Make sure the template contains all the counties for each program that the PIT workbooks contain.
 
 Extract_data_from_Excel_PIT_Workbooks.py
