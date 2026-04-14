@@ -3,6 +3,13 @@
 OTDA is asking us to fill in their PIT templates are each CoC by the the counties in them. 
 
 
+### Prerequisite
+- PIT workbooks
+- Unsheltered worbook
+- OTDA templates
+ 
+
+
 ### Data:
 Copy the PIT workbooks for the above CoCs into the a ‘Data’ folder. Also, add the ‘Unsheltered’ workbook along with the OTDA template. Make sure the template contains all the counties for each program that the PIT workbooks contain.
 
