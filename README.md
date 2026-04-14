@@ -12,7 +12,7 @@ OTDA is asking us to fill in their PIT templates are each CoC by the the countie
 - Create folder for OTDA templates - Template
 
 
-A form will ask where the workbook folder (Data) and the folder holding the OTDA templates (Templates) are located. 
+A form will ask where the workbook folder (Data) and the folder holding the OTDA templates (Template) are located. 
 
 ### Extract.py
 The script combines all the files out into the ‘Data’ folder into one csv file.  
