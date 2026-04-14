@@ -8,23 +8,23 @@ OTDA is asking us to fill in their PIT templates are each CoC by the the countie
 - Unsheltered worbook for all CoCs
 - OTDA templates
  
-- Create folder to hold workbooks
-- Create folder for OTDA templates
+- Create folder to hold workbooks - Data
+- Create folder for OTDA templates - Template
 
 
-A pop form will ask where the 'Data' folder is located and the folder holding the OTDA templates 
+A form will ask where the workbook folder (Data) and the folder holding the OTDA templates (Templates) are located. 
 
 ### Extract.py
-The script compiles all the files out into the ‘Data’ folder that begin with ‘NY-‘ and end with 'xlsx'. These are changed them into longitudinal data. 
+The script combines all the files out into the ‘Data’ folder into one csv file.  
 
 ### Transform.py
-It processes the data by adding a coordinate (column and row) to each field name to be placed into the Excel template. Then it changes the structure to be used for the Excel templates.
+The file created above is merged with a file with a coordinate (column and row) to each field name to be placed into the Excel template. Then it changes the structure to be used for the Excel templates.
 
 ### Break_apart.py
-Creates individual files for each CoC. This was easier than creating new cold for the above.
+Breaks apart the file above into individual files for each CoC. 
 
 ### Insert.py
-Place the data into the OTDA templates.
+Place the data for each CoC into their respective OTDA templates.
 
 
 
