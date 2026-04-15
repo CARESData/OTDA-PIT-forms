@@ -15,7 +15,7 @@ OTDA is asking us to fill in their PIT templates are each CoC by the the countie
 A form will ask where the workbook folder (Data) and the folder holding the OTDA templates (Template) are located. 
 
 ### Extract.py
-The script combines all the files out into the ‘Data’ folder into one csv file.  
+The script extracts the data from all the PIT workbooks in the ‘Data’ folder. This data is combined into one csv file.  
 
 ### Transform.py
 The file created above is merged with a file with a coordinate (column and row) to each field name to be placed into the Excel template. Then it changes the structure to be used for the Excel templates.
